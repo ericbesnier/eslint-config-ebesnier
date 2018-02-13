@@ -1,1 +1,1 @@
-# eslint-config-ebesnier
+# eslint-config-ericbesnier
