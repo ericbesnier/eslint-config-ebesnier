@@ -1,13 +1,13 @@
 {
-  "name": "eslint-config-ebesnier",
+  "name": "eslint-config-ericbesnier",
   "version": "2.1.0",
   "description": "Eslint config with less rule for react & react-native working with es7. Base of Airbnb",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/EQuimper/eslint-config-ebesnier"
+    "url": "https://github.com/EQuimper/eslint-config-ericbesnier"
   },
   "bugs": {
-    "url": "https://github.com/ericbesnier/eslint-config-ebesnier/issues"
+    "url": "https://github.com/ericbesnier/eslint-config-ericbesnier/issues"
   },
   "scripts": {
     "commit": "git-cz",
@@ -21,8 +21,8 @@
     "index.js",
     "rules/*"
   ],
-  "author": "Eric Besnier <ericbesnier.pro@gmail.com> <https://github.com/EBesnier>",
-  "license": "EBesnier",
+  "author": "Eric Besnier <ericbesnier.pro@gmail.com> <https://github.com/ericbesnier>",
+  "license": "Eric Besnier",
   "keywords": [
     "eslint",
     "eslint-config",
